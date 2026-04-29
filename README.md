@@ -6,5 +6,7 @@
 
 Expands Create with new assembly-based recipes, allowing you to automate resources and survive entirely within the Nether.
 
+
+A Non-Create version of the mod will be published for Minecraft Bedrock Edition after the datapack and Java Edition Mod versions are fully released.
 # COMING SOON
 
